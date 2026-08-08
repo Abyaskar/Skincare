@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+venv/
+.venv/
+
+# Environment
+.env
+
+# Data artifacts
+data/faiss_index.bin
+data/faiss_id_map.json
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model cache
+.cache/
