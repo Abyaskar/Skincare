@@ -254,11 +254,3 @@ python scripts/evaluate.py
 - Improve mobile experience further
 
 ---
-
-## Final Note
-
-This project was built within the 48-hour recommendation system challenge.  
-The focus was on clear thinking, safe design, honest handling of incomplete data, and making the system easy for both users and evaluators to understand.
-
-Thank you for reviewing the project.
-```
