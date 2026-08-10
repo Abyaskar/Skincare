@@ -1,4 +1,4 @@
-# Formulary — AI Skincare Advisor
+# Formulary - AI Skincare Advisor
 
 An AI-powered skincare recommendation system built as a complete working project.
 
